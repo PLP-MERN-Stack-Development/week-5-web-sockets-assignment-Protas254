@@ -17,8 +17,8 @@ This is a full-stack real-time chat application built with React, Node.js, Expre
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/PLP-MERN-Stack-Development/week-5-web-sockets-assignment-Miss-Maggie.git
-cd week-5-web-sockets-assignment-Miss-Maggie
+git clone https://github.com/PLP-MERN-Stack-Development/week-5-web-sockets-assignment-Protas-Junior.git
+cd week-5-web-sockets-assignment-Protas-Junior
 ```
 
 ### 2. Configure Environment Variables
@@ -79,4 +79,4 @@ npm run dev
 ---
 
 ## 👤 Author
-Miss Maggie
+Miss Protas Junior
